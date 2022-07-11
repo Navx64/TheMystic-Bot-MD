@@ -64,7 +64,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '(☞ﾟ∀ﾟ)☞'
+global.packname = 'CLAN'
 global.author = 'ETERN4L'
 
 global.wm = 'ETERN4L'
