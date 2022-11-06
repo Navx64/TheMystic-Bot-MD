@@ -64,12 +64,12 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'CLAN'
-global.author = 'ETERN4L'
+global.packname = 'BOT DE'
+global.author = 'LixzyBW'
 
-global.wm = 'ETERN4L'
-global.igfg = 'ETERN4L'
-global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
+global.wm = 'LixzyBW'
+global.igfg = 'LixzyBW'
+global.wait = '[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg') 
