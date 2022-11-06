@@ -1,7 +1,7 @@
 {
   "name": "ETERN4L",
   "description": " BOT DE ETERN4L CLAN",
-  "repository": "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+  "repository": "https://github.com/Navx64/TheMystic-Bot-MD",
   "logo": "https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/master/Menu2.jpg",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
   "buildpacks": [
