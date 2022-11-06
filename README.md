@@ -38,7 +38,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD
+> git clone https://github.com/Navx64/TheMystic-Bot-MD
 > cd TheMystic-Bot-MD
 > yarn install 
 > npm install
@@ -62,20 +62,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > rm -rf session.data.json
 > npm start
 ```
-
-### `—◉ 🔥 ACTIVAR EN BOXMINEHOST 🔥`
-<img src="https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/master/src/Pre%20Bot%20Publi.png" alt="GIF" width="450" height="240"/>
-<p>> Pagina Oficial:
-<a href="https://boxmineworld.com">https://boxmineworld.com</a>
-<p>> Dashboard:
-<a href="https://dash.boxmineworld.com/home">https://dash.boxmineworld.com/home</a>
-<p>> Panel:
-<a href="https://panel.boxmineworld.com">https://panel.boxmineworld.com</a>
-<p>> Tutorial:
-<a href="https://youtu.be/eC9TfKICpcY">https://youtu.be/eC9TfKICpcY</a>
-<p>> Dudas UNICAMENTE SOBRE EL HOST:
-<a href="https://discord.gg/84qsr4v">https://discord.gg/84qsr4v</a> (Preguntar por Vicemi)
-</p>
 
 ### `—◉ 📝 NOTAS 📝`
 ```bash
